@@ -1,5 +1,3 @@
-# basicNodeServer
-Basic node server blueprint with babel and auth using jwt. Mongoose connection.
-
+# API_Header_Versioning_Node
 ## npm  install
 ## npm start
